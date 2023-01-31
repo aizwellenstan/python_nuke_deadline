@@ -38,3 +38,7 @@ def GetInfoTxt(filePath, frames, chunkSize=1, excuteNodes="REN_EXR", pool="nuke"
 
 ### nuke-ui
 deadline.py
+
+### Support Me
+https://ibkr.com/referral/zhenwei375
+https://ko-fi.com/traderaiz
